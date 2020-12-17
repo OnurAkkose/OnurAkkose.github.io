@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Onur Akköse",
+    "label": "Student",
+    "picture": "https://techfolios.github.io/images/onurakkose.png",
+    "email": "onur251akkose@gmail.com",
+    "phone": "5423470155",
+    "website": "https://onurakkose.github.io",
+    "summary": "I am studying in Computer Engineering at the Dumlupınar University. I expect to graduate in June, 2021.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "İstanbul",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "OnurAkkose",
+        "url": "https://github.com/OnurAkkose"
+      },
+      {
+        "network": "linkedin",
+        "username": "Onur Akköse",
+        "url": "https://www.linkedin.com/in/onur-akk%C3%B6se-81405b1a6/"
+      },
+     
+      {
+        "network": "medium",
+        "username": "onurakkose",
+        "url": "https://onurakkose.medium.com"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Full-Stack Developer",
+      "keywords": [
+        
+      ]
+    },
+    {
+      "name": "data mining",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C-C++-C#",
+        "Python",
+        "Java",
+        "Javascript",
+        "MSSQL",
+        "MYSQL",
+        "MongoDB",
+        "SQLite",
+        ".NET Framework",
+        "Flask",
+        "Django"
+      ]
+    }
+    
+  ],
+  "education": [
+    {
+      "institution": "Dumlupınar University, Kütahya",
+      "area": "Computer Engineering (expected June, 2021)",
+      
+      "courses": [
+      ]
+    }
+  ]
+  
+
+ 
+}
