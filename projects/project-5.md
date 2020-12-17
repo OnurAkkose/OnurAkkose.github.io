@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/howtogetjob-atgoogle.png
-title: Understanding Google Job Posts
-permalink: projects/GoogleJobs
+image: images/bilgisayarBilimleri.png
+title: Scraping Computer Science Jobs
+permalink: projects/NLP
 # All dates must be YYYY-MM-DD format!
-date: 2020-07-08
+date: 2020-07-07
 labels:
   - NLP
   - Machine Learning
   
-summary: A NLP project to learn what qualifications are required by Google
-projecturl: https://github.com/OnurAkkose/How_to_get_a_job_at_Google
-
+summary: A NLP project to learn what qualifications are required in job posting
+projecturl: https://github.com/OnurAkkose/BilgisayarBilimleriSektorBeklentileri
+---
