@@ -7,13 +7,7 @@
     "phone": "",
     "website": "https://onurakkose.github.io",
     "summary": "I am studying in Computer Engineering at the Dumlupınar University. I expect to graduate in June, 2021.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "İstanbul",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
+    
     "profiles": [
       {
         "network": "github",
@@ -41,12 +35,12 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Mining",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Machine Learning and Deep Learning",
       "keywords": [
       ]
     }
