@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/kod-arkadasim.png
-title: Understanding Google Job Posts
+title: Kod Arkadasim Web Api
 permalink: projects/NLP
 # All dates must be YYYY-MM-DD format!
 date: 2020-07-07
