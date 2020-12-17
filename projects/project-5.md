@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/howtogetjob-atgoogle.png
 title: Understanding Google Job Posts
-permalink: projects/NLP
+permalink: projects/GoogleJobs
 # All dates must be YYYY-MM-DD format!
 date: 2020-07-08
 labels:
