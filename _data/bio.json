@@ -24,6 +24,16 @@
         "network": "medium",
         "username": "onurakkose",
         "url": "https://onurakkose.medium.com"
+      },
+       {
+        "network": "stackoverflow",
+        "username": "onurakkose",
+        "url": "https://stackoverflow.com/users/13411939/onur-akk%c3%96se"
+      },
+       {
+        "network": "kaggle",
+        "username": "onurakkose",
+        "url": "https://www.kaggle.com/onurakkse"
       }
     ]
   },
