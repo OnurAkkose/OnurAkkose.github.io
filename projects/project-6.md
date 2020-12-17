@@ -5,7 +5,7 @@ image: images/howtogetjob-atgoogle.png
 title: Kod Arkadasim Web Api
 permalink: projects/asp
 # All dates must be YYYY-MM-DD format!
-date: 2020-07-09
+date: 2020-07-07
 labels:
   - C#
   - ASP.NET MVC
