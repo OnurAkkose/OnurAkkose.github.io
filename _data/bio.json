@@ -6,7 +6,7 @@
     "email": "onur251akkose@gmail.com",
     "phone": "",
     "website": "https://onurakkose.github.io",
-    "summary": "I am studying in Computer Engineering at the Dumlupınar University. I expect to graduate in June, 2021. I am Data Science and Machine Learning enthusiast. I spend %90 of my time learning new algorithms,frameworks or networks. I write about Deep Learning for Analytics Vidhya and Deep Learning Türkiye on Medium.",
+    "summary": "I am studying in Computer Engineering at the Dumlupınar University. I expect to graduate in June, 2021. I am Data Science and Machine Learning enthusiast. I spend %90 of my time learning new algorithms,frameworks or networks. I write about Deep Learning for Analytics Vidhya and Deep Learning Türkiye on Medium. Gitgub Profile",
     
     "profiles": [
       {
@@ -25,21 +25,16 @@
         "username": "Medium",
         "url": "https://onurakkose.medium.com"
       },
-       {
-        "network": "stackoverflow",
-        "username": "Stackoverflow",
-        "url": "https://stackoverflow.com/users/13411939/onur-akk%c3%96se"
-      },
-       {
-        "network": "kaggle",
-        "username": "Kaggle",
-        "url": "https://www.kaggle.com/onurakkse"
-      }
+    
     ]
   },
-  "summary":[{
-  "name": "I am studying in Computer Engineering(4th) and I except to graduate in June 2021. I am Machine Learning and Deep Learning enthusiast. I regularly write about Machine Learning- Deep Learning for Analytics Vidhya and Deep Learning Türkiye on Medium. I spend 90 percent of my time learning new algorithms, networks and frameworks. I love reading articles, posts and watching tutorial series. Throughout my study, I developed many applications with different programming languages. Also, I used databases in various for my applications."
-  }],
+  "summary":[
+    {
+      "name": "I am studying in Computer Engineering(4th) and I except to graduate in June 2021. I am Machine Learning and Deep Learning enthusiast. I regularly write about Machine Learning- Deep Learning for Analytics Vidhya and Deep Learning Türkiye on Medium. I spend 90 percent of my time learning new algorithms, networks and frameworks. I love reading articles, posts and watching tutorial series. Throughout my study, I developed many applications with different programming languages. Also, I used databases in various for my applications.",
+      "keywords":[
+      ]
+    }
+  ],
   "interests": [
     {
       "name": "Full-Stack Developer",
