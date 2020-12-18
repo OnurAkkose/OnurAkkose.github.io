@@ -13,4 +13,4 @@ labels:
   
 summary: A deep learning model to recognize faces
 projecturl: https://github.com/OnurAkkose/ComputerVision-Applications/tree/main/Y%C3%BCz%20Tan%C4%B1ma
-
+---
