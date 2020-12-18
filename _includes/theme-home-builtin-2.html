@@ -17,7 +17,11 @@
     <p class="">{{ site.data.bio.basics.label }}</p>
     <p class="">
       {{ site.data.bio.basics.summary }}
+      
+      <a href="https://github.com/OnurAkkose"><b>Github</b></a><br>
+      <a href="https://www.kaggle.com/onurakkse"><b>Kaggle</b></a>
     </p>
+    
     <p>Interests:
       {% for interest in site.data.bio.interests %}
         {{ interest.name }}{% if forloop.last != true %}, {% endif %}
