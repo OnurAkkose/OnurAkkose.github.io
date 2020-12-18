@@ -11,28 +11,28 @@
     "profiles": [
       {
         "network": "github",
-        "username": "OnurAkkose",
+        "username": "Github",
         "url": "https://github.com/OnurAkkose"
       },
       {
         "network": "linkedin",
-        "username": "Onur Akköse",
+        "username": "Linkedin",
         "url": "https://www.linkedin.com/in/onur-akk%C3%B6se-81405b1a6/"
       },
      
       {
         "network": "medium",
-        "username": "onurakkose",
+        "username": "Medium",
         "url": "https://onurakkose.medium.com"
       },
        {
         "network": "stackoverflow",
-        "username": "Onur Akköse",
+        "username": "Stackoverflow",
         "url": "https://stackoverflow.com/users/13411939/onur-akk%c3%96se"
       },
        {
         "network": "kaggle",
-        "username": "Onur Akköse",
+        "username": "Kaggle",
         "url": "https://www.kaggle.com/onurakkse"
       }
     ]
