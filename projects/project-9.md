@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/km-fiyat.jpg
+image: images/km-fiyat.png
 title: Car Features and Prices
 permalink: projects/carfeatures
 # All dates must be YYYY-MM-DD format!
