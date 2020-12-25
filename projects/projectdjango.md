@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kod-arkadasim.png
+image: images/home.png
 title: Django Blog Api
 permalink: projects/django
 # All dates must be YYYY-MM-DD format!
